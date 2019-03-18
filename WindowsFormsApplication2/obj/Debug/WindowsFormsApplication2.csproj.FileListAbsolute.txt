@@ -10,3 +10,12 @@ c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplica
 D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
 D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
 D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Source\Repos\计算器\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Administrator\Source\Repos\计算器\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Source\Repos\计算器\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Source\Repos\计算器\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Source\Repos\计算器\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Source\Repos\计算器\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\计算器\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Administrator\Source\Repos\计算器\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\计算器\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
